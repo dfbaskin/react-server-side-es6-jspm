@@ -5,5 +5,5 @@ import items from './itemsList.jsx!';
 
 React.render(
     <Hello items={items} />,
-    document.body
+    document.getElementById("injected-content")
 );
