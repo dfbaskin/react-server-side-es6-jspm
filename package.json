@@ -1,10 +1,14 @@
 {
-  "name": "jspm-node",
+  "name": "react-server-side-es6-jspm",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "author": "",
-  "license": "ISC",
+  "description": "React server-side rendering with ES6 and JSPM",
+  "main": "server.js",
+  "author": "Dave Baskin <dfbaskin@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfbaskin/react-server-side-es6-jspm.git"
+  },
   "jspm": {
     "directories": {},
     "dependencies": {
